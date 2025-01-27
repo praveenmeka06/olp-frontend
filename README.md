@@ -30,6 +30,9 @@ Before you start, make sure you have the following installed:
    it runs on http://localhost:3000. port is set to 3000.
 
 4. **Login Credentials**
+
    database user collection exported file has all the existing user details
+
    admin email => admin@test.lk
+
    password => Asd@1234
